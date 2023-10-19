@@ -3,3 +3,5 @@ opencv-python-headless
 numpy
 pyzbar
 pyppeteer
+zipfile
+requests
