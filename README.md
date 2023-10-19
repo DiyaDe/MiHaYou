@@ -4,7 +4,7 @@
 ```
 pip install -r requirements.txt
 ```
-#运行程序
+# 运行程序
 ```
 python 原神抢码器.py
 ```
